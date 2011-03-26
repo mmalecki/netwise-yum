@@ -1,0 +1,1 @@
+netwise-yum is an application which makes sure that you no longer will have to download the same package more than once, even though using many computers at once. It wraps around yum repositories acting like a real server, but caching all RPMs.
