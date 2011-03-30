@@ -3,4 +3,4 @@
 import netwiseyum.server
 
 if __name__ == "__main__":
-	netwiseyum.server.Server().run()
+    netwiseyum.server.Server().run()
